@@ -36,7 +36,7 @@ function Quate({getquate}) {
   return (
     <div className=" container" ref={getquate} style={{position:"relative"}}>
             <div style={{marginTop:'30px'}} >
-            <h1 style={{fontSize:"50px",color:"white",marginTop:"2%"}}>Get Quate</h1>
+            <h1 style={{fontSize:"50px",color:"white",marginTop:"2%"}}>Get Quote</h1>
             <hr  style={{background: 'white',color: 'white',height: '3px',margin: "0px",opacity: "100%"}}/>
             <div id="contact"  style={{marginTop:"30px",position:"relative"}}>
             <form onSubmit={onSubmit}>

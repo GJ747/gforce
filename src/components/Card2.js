@@ -40,7 +40,7 @@ function Card2({service}) {
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
-            <p style={{color:"white",marginTop:"10%",fontSize:"40px"}}>We build websites for professionals like doctors, artists, contractors, bloggers and small bussinesses. With a good website, someone can scale their bussiness rapidly</p>
+            <p style={{color:"white",marginTop:"10%",fontSize:"40px"}}>We build websites for professionals like doctors, artists, contractors, bloggers and small businesses. With a good website, someone can scale their bussiness rapidly</p>
         </div>
     </div>
 
@@ -58,7 +58,7 @@ function Card2({service}) {
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
-            <p style={{color:"white",marginTop:"10%",fontSize:"40px"}}>We can create any kind of web application according to our client's need with a strong backend, scalable architecture and new-age technologies</p>
+            <p style={{color:"white",marginTop:"10%",fontSize:"40px"}}>We can create any kind of web application according to our client's needs with a strong backend, scalable architecture and new-age technologies</p>
         </div>
     </div>
 

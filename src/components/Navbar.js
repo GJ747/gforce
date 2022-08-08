@@ -7,7 +7,7 @@ function Navbar({fun,service,aboutus,getquate,contact}) {
             <div className='col-3 text-center' onClick={() => {fun(aboutus.current)}}><h4 style={{color:"white",marginTop:"4px" }}>About Us</h4></div>
             <div className='col-3 text-center' onClick={() => {fun(service.current)}}><h4 style={{color:"white",marginTop:"4px" }}>Services</h4></div>
             <div className='col-3 text-center' onClick={() => {fun(getquate.current)}}><h4 style={{color:"white",marginTop:"4px" }}>Get Quote</h4></div>
-            <div className='col-3 text-center' onClick={() => {fun(contact.current)}}><h4 style={{color:"white",marginTop:"4px" }}>Contact</h4></div>
+            <div className='col-3 text-center' onClick={() => {fun(contact.current)}}><h4 style={{color:"white",marginTop:"4px" }}>Contact Us</h4></div>
         </div>
     </div>
   )
