@@ -15,7 +15,7 @@ function Card2({service}) {
                         marginTop:"3%",
                         width:"100%",
                         position:"relative",
-                        backgroundColor:"#49d3f5",
+                        backgroundColor:"#49d3f5"
                         }}>
                 <img id='logo' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={ecomimg}/>
                 <h3 style={{fontSize:"300%"}}>E-Commerce</h3>
@@ -33,7 +33,7 @@ function Card2({service}) {
                         marginTop:"3%",
                         width:"100%",
                         position:"relative",
-                        backgroundColor:"#c170fa",
+                        backgroundColor:"#c170fa"
                         }}>
                 <img id='logo1' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={proing}/>
                 <h3 style={{fontSize:"300%"}}>professionals website</h3>
@@ -51,7 +51,7 @@ function Card2({service}) {
                         marginTop:"3%",
                         width:"100%",
                         position:"relative",
-                        backgroundColor:"#fa7070",
+                        backgroundColor:"#fa7070"
                         }}>
                 <img id='logo2' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={webimg}/>
                 <h3 style={{fontSize:"300%"}}>Web Apps</h3>

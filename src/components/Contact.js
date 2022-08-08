@@ -10,7 +10,7 @@ function Contact({contact}) {
           <div className='col-sm' >
             <div className="d-flex flex-row ">
                 <p id='p'  className='p-2 ' style={{color:"white", marginBottom:"0px"}} >Contact No. -</p>
-                <a id='a' className='p-2 ' href='tel:+91 8094484803' style={{color:"white",fontSize:"30px", textDecoration:"none",}}>+91-8094484803</a>
+                <a id='a' className='p-2 ' href='tel:+91 8094484803' style={{color:"white",fontSize:"30px", textDecoration:"none"}}>+91-8094484803</a>
             </div>
             <div className="d-flex flex-row  ">
                 <p id='p' className='p-2 ' style={{color:"white",margin:"0%",padding:"0px"}} >Email -</p>
