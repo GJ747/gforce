@@ -11,7 +11,7 @@ function Card2({service}) {
         <hr  style={{background: 'white',color: 'white',height: '3px',margin: "0px",opacity: "100%"}}/>
     <div className='row'>
         <div className='col-sm' style={{alignItems:"center"}}>
-            <div style={{height:"400px",
+            <div id='card' style={{height:"400px",
                         marginTop:"3%",
                         width:"100%",
                         position:"relative",
@@ -29,14 +29,14 @@ function Card2({service}) {
 
     <div className='row'>
         <div className='col-sm' style={{alignItems:"center"}}>
-            <div style={{height:"400px",
+            <div id='card' style={{height:"400px",
                         marginTop:"3%",
                         width:"100%",
                         position:"relative",
                         backgroundColor:"#c170fa"
                         }}>
                 <img id='logo1' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={proing}/>
-                <h3 style={{fontSize:"270%", textAlign:"center"}}>professionals website</h3>
+                <h3 id='h3' style={{fontSize:"250%", textAlign:"center"}}>Professionals Website</h3>
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
@@ -47,7 +47,7 @@ function Card2({service}) {
 
     <div className='row'>
         <div className='col-sm' style={{alignItems:"center"}}>
-            <div style={{height:"400px",
+            <div id='card' style={{height:"400px",
                         marginTop:"3%",
                         width:"100%",
                         position:"relative",

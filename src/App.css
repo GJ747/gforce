@@ -125,7 +125,16 @@ h3{
   #a1{
     font-size: 27px !important
   }
- 
+ #card{
+    height: 250px !important
+ }
+
+ #logo1{
+    height: 50% !important
+ }
+ #h3{
+  font-size: 200% !important
+ }
 }
 
 
