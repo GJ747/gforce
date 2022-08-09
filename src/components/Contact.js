@@ -14,7 +14,7 @@ function Contact({contact}) {
             </div>
             <div className="d-flex flex-row  ">
                 <p id='p' className='p-2 ' style={{color:"white",margin:"0%",padding:"0px"}} >Email -</p>
-                <a className='p-2 ' href='mailto:gauravjoshi747@gmail.com' style={{padding:"0px",color:"white",marginTop:"7px",fontSize:"30px", textDecoration:"none"}}>gauravjoshi747@gmail.com</a>
+                <a id='a1' className='p-2 ' href='mailto:gauravjoshi747@gmail.com' style={{padding:"0px",color:"white",marginTop:"7px",fontSize:"30px", textDecoration:"none"}}>gauravjoshi747@gmail.com</a>
             </div>
           </div>
           <div className='col-sm'>

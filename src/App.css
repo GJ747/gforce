@@ -89,7 +89,9 @@ h3{
   margin-top: 10px !important
 }
 
-
+#p{
+  font-size: 40px !important
+}
 
 @media only screen and (max-width: 500px) {
   body{
@@ -117,12 +119,16 @@ h3{
   p{
     font-size: 20px !important
   }
+  #p{
+    font-size: 36px !important
+  }
+  #a1{
+    font-size: 27px !important
+  }
  
 }
 
-#p{
-  font-size: 40px !important
-}
+
 
 #popup{
   padding: 2%;

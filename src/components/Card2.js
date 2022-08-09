@@ -18,7 +18,7 @@ function Card2({service}) {
                         backgroundColor:"#49d3f5"
                         }}>
                 <img id='logo' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={ecomimg}/>
-                <h3 style={{fontSize:"300%"}}>E-Commerce</h3>
+                <h3 style={{fontSize:"270%"}}>E-Commerce</h3>
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
@@ -36,7 +36,7 @@ function Card2({service}) {
                         backgroundColor:"#c170fa"
                         }}>
                 <img id='logo1' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={proing}/>
-                <h3 style={{fontSize:"300%"}}>professionals website</h3>
+                <h3 style={{fontSize:"270%", textAlign:"center"}}>professionals website</h3>
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
@@ -54,7 +54,7 @@ function Card2({service}) {
                         backgroundColor:"#fa7070"
                         }}>
                 <img id='logo2' style={{height:"60%", width:"50%", filter:"invert(1)"}} src={webimg}/>
-                <h3 style={{fontSize:"300%"}}>Web Apps</h3>
+                <h3 style={{fontSize:"270%"}}>Web Apps</h3>
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
