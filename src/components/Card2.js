@@ -22,7 +22,7 @@ function Card2({service}) {
             </div>
         </div>
         <div className='col-sm px-3' style={{padding:"0px"}}>
-            <p style={{color:"white",marginTop:"10%",fontSize:"40px"}}>We build full-fledge ecommerce websites with features like product listing, product searching and sorting, product pages,user account management, order management, payment gateway, etc.</p>
+            <p style={{color:"white",marginTop:"10%",fontSize:"40px",fontFamily:"'Oswald', sans-serif;"}}>We build full-fledge ecommerce websites with features like product listing, product searching and sorting, product pages,user account management, order management, payment gateway, etc.</p>
         </div>
     </div>
 

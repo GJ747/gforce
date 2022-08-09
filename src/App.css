@@ -2,6 +2,9 @@ body{
   background-color: #022f38;
   font-family: 'Mouse Memoirs', sans-serif
 }
+p{
+  font-family: 'Oswald', sans-serif !important
+}
 
 #navbar :hover, #navbar:hover h4{
   background-color: white;
@@ -90,7 +93,8 @@ h3{
 }
 
 #p{
-  font-size: 40px !important
+  font-size: 40px !important;
+  font-family: 'Mouse Memoirs', sans-serif !important
 }
 
 @media only screen and (max-width: 500px) {
@@ -120,7 +124,8 @@ h3{
     font-size: 20px !important
   }
   #p{
-    font-size: 36px !important
+    font-size: 36px !important;
+    font-family: 'Mouse Memoirs', sans-serif !important
   }
   #a1{
     font-size: 27px !important
